@@ -2,11 +2,19 @@
 
 ###
 
-<p align="left">Eu me chamo Higor, sou de Minas Gerais - BH</p>
+<h6 align="left">My name is Higor Montanari and i'm a Java Developer, from MG, Brazil.</h6>
 
 ###
 
-<p align="left">• 🔭  Contribuo como desenvolvedor • e analista na DevsFree<br>• 🌱 Estudo principalmente Java e sempre busco novos conhecimentos<br>• ✨ Comprometido em aprender e crescer como desenvolvedor<br>• 💻 Buscando oportunidades de trabalho na área de desenvolvimento</p>
+<h4 align="left">Me</h4>
+
+###
+
+<p align="left">• 🔭  I contribute as a developer at TechBiz.<br>• 🎓  I am currently pursuing a degree in Computer Engineering.<br>• ✨ Always seeking new knowledge and skills.<br>• 💻 Looking for job opportunities in the development field.</p>
+
+###
+
+<h4 align="left">My Stats</h4>
 
 ###
 
@@ -29,6 +37,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+###
+
+<h4 align="left">Social Media</h4>
 
 ###
 
