@@ -53,6 +53,9 @@
   <a href="https://www.instagram.com/montanarii_v/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="27" height="15" alt="instagram logo"  />
   </a>
+  <a href="montanaridev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="27" height="15" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
