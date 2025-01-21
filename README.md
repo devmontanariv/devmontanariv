@@ -47,14 +47,14 @@
 <br clear="both">
 
 <div align="left">
-  <a href="Montanari" target="_blank">
+  <a href="https://discord.gg/J25J2HwY" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="27" height="15" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/montanarii_v/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="27" height="15" alt="instagram logo"  />
   </a>
-  <a href="montanaridev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="27" height="15" alt="gmail logo"  />
+  <a href="https://www.twitch.tv/montanarii_v" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="27" height="15" alt="twitch logo"  />
   </a>
 </div>
 
