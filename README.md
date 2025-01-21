@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭  Contribuo como desenvolvedor e analista na DevsFree<br>🌱 Estudo principalmente Java e sempre busco novos conhecimentos<br>✨ Comprometido em aprender e crescer como desenvolvedor<br>💻 Buscando oportunidades de trabalho na área de desenvolvimento</p>
+<p align="left">• 🔭  Contribuo como desenvolvedor • e analista na DevsFree<br>• 🌱 Estudo principalmente Java e sempre busco novos conhecimentos<br>• ✨ Comprometido em aprender e crescer como desenvolvedor<br>• 💻 Buscando oportunidades de trabalho na área de desenvolvimento</p>
 
 ###
 
