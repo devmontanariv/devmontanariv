@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• 🔭  I contribute as a developer at <aTechBiz.<br>• 🎓  I am currently pursuing a degree in Computer Engineering.<br>• ✨ Always seeking new knowledge and skills.<br>• 💻 Looking for job opportunities in the development field.</p>
+<p align="left">• 🔭  I contribute as a developer at TechBiz.<br>• 🎓  I am currently pursuing a degree in Computer Engineering.<br>• ✨ Always seeking new knowledge and skills.<br>• 💻 Looking for job opportunities in the development field.</p>
 
 ###
 
